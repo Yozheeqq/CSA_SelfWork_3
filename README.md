@@ -477,6 +477,8 @@ check:
     .section  .note.GNU-stack,"",@progbits
 ```
 
+Файлы до рефакторинга: [prefunc.s](files/prefunc.s), [premain.s](files/premain.s)
+
 ### Тестирование
 
 [Файлы с тестами](tests)
